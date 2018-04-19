@@ -1,0 +1,9 @@
+awful terrible 10
+awful great 8
+awful fast 5
+chop cut 10
+chop bake 7
+chop smile 2
+material fabric 10
+material car 3
+material stone 7
